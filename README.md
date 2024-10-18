@@ -56,7 +56,7 @@ When you are done, you can stop the containers either with:
 	![Docker Desktop](/assets/image.png)
 
 - **Using the console**
-  - In the same root directory of the API, press *Ctrl + C*, then wait for the coinatiners to stop
+  - In the same root directory of the API, press *Ctrl + C*, then wait for the containers to stop
 
 >Don´t worry about saving changes, InventAPI automatically saves your changes using volumes to keep persistance in the database ;)
 
@@ -157,7 +157,8 @@ Y *voilá*, ¡InventAPI estará lista para usarse!
 <br></br>
 
 3.- Parar los contenedores
-Una vez que hayas terminado, puedes deterner los contenedores ya sea:
+
+Una vez que hayas terminado, puedes detener los contenedores ya sea:
 - **Usando Docker Desktop**:
   - Abre Docker Desktop, y haz clic en boton "Detener" en el contenedor principal
   ![Docker Desktop](assets/image.png)

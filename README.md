@@ -25,7 +25,9 @@ InventAPI is a REST API developed in Python using the Flask framework. This API 
 1.- Clone the repository
 ```sh
 git clone https://github.com/BriXelDev/InventAPI.git
-``` 
+```
+(or download the ZIP file and extract it elsewhere)
+
 2.- Build and run Docker containers
 If it is your first time using InventAPI, ensure that you are in the project root directory, then execute:
 
@@ -134,6 +136,8 @@ InventAPI es una REST API desarrollada en Python utilizando el framework Flask. 
 ```sh
 git clone https://github.com/Zorex55/Proyectos.git
 ```
+(o descarga el archivo ZIP y extráelo en otro lugar)
+
 2.- Construir y ejecutar los contenedores Docker
 
 Si es la primera vez que usas InventAPI, asegúrate de estar en el directorio raíz del proyecto y luego ejecuta:

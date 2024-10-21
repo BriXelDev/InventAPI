@@ -12,6 +12,7 @@ services:
     depends_on:
     - InventAPI_db
     - InventAPI_cache
+    restart: always
   
   InventAPI_db:
     container_name: InventAPI_db

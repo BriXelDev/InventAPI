@@ -30,6 +30,7 @@ git clone https://github.com/BriXelDev/InventAPI.git
 (or download the ZIP file and extract it elsewhere)
 
 2.- Build and run Docker containers
+
 If it is your first time using InventAPI, ensure that you are in the project root directory, then execute:
 
 	docker-compose build

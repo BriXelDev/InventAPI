@@ -12,7 +12,7 @@ InventAPI is a REST API developed in Python using the Flask framework. This API 
 
 ## 🧑‍💻 Prerequisites
 - Have Docker and Docker Compose installed on your machine.
-- Have Python 3.6+ (or newer) installed if you want to run the API outside Docker containers.
+- Have Python 3.6+ (or newer) installed if you want to run the API outside Docker containers. (advisable)
 - Windows PowerShell or Git Bash to run commands in a terminal.
 - Windows 10 or 11 installed on your computer
 
@@ -121,7 +121,7 @@ InventAPI es una REST API desarrollada en Python utilizando el framework Flask. 
 ## 👨‍💻 Requisitos previos
 
 - Tener Docker instalado en tu máquina.
-- Tener Python 3.6+ (o más reciente) instalado si deseas ejecutar la API fuera de contenedores Docker.
+- Tener Python 3.6+ (o más reciente) instalado si deseas ejecutar la API fuera de contenedores Docker. (recomendable)
 - Windows PowerShell o Git Bash para ejecutar los comandos en una terminal.
 - Windows 10 u 11 instalado en tu computadora
 
